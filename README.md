@@ -1,4 +1,4 @@
-# IR_Phase3
+# Search Engine
 Third phase of Information Retrieval Project.
 
 Clustering the dataset using KNN multiple times. Using cosine simularity between the given query and the generated cluster centroids. 
