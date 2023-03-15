@@ -1,6 +1,7 @@
 # Search Engine
 
-This project was carried out as part of the Information Retrieval course.
+This project was carried out as part of the Information Retrieval course.  
+Implementing a `search engine` using different search models and algorithms like `binary search`, `tf-idf`, and `word embeddings`. Also, implementing `K-means` clustering and `KNN` algorithms to speed up the search.
 ## Dataset
 There are two datasets. One has 7k news articles, and the second one has 50k news articles used for clustering.   
 Articles in the second dataset have categories (`sport`, `economy`, `politics`, `culture`, and `health`), and they were used in `KNN` for labeling articles in the first dataset. Datasets are not in this repository.  
